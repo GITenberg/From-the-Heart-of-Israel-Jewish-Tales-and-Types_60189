@@ -1,0 +1,46 @@
+_repo: From-the-Heart-of-Israel-Jewish-Tales-and-Types_60189
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Warshawsky, A. G. (Abel G.)
+    aliases:
+    - Warshawsky, A. (Abel)
+    - Warshawsky, Abel G.
+    birthdate: 1883
+    deathdate: 1962
+    gutenberg_agent_id: '50840'
+    url: http://www.gutenberg.org/2009/agents/50840
+creator:
+  author:
+    agent_name: Drachman, Bernard
+    alias: Drakhman, Dov
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '50835'
+    url: http://www.gutenberg.org/2009/agents/50835
+    wikipedia: https://en.wikipedia.org/wiki/Bernard_Drachman
+description: ''
+gutenberg_issued: '2019-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60189'
+  lccn: '24012036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Folklore'
+- !lcsh 'Tales -- Israel'
+- !lcsh 'Jewish legends'
+- !lcsh 'Jewish folk literature'
+- !lcc 'PS'
+- !lcsh 'Jews -- Social life and customs'
+- GITenberg
+tableOfContents: 'Apologia pro libro suo -- The village Kehillah: Nordheim. Schnorrers.
+  Gendarmes. Reb Shemayah and other Nordheim worthies -- The little horseradish woman
+  -- The general -- Too late, but on time -- The proselyte of righteousness -- Isaac
+  and Alice -- The scissors-grinder -- The shlemihl -- A victim of prejudice -- The
+  rabbi''s game of cards.'
+title: 'From the Heart of Israel: Jewish Tales and Types'
+url: http://www.gutenberg.org/ebooks/60189
